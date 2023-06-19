@@ -1,0 +1,6 @@
+principal = float(input("What is the principal amount?\n"))
+interest = float(input("What is the interest rate? e.g. 15 for 15%\n"))
+time = float(input("How many years?\n"))
+
+FV = principal * ((1 + (interest/100)) ** time)
+print("Total amount after", time, "years:", FV)
