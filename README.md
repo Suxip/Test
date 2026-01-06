@@ -1,3 +1,3 @@
-# Simple Python program for calculating interest
+# Testing
 
-Testing 
+Simple Python program for calculating interest
